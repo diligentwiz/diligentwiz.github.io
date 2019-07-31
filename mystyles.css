@@ -1,0 +1,90 @@
+#whole_page{
+  background-color: black;
+}
+
+#heading{
+  color: red;
+}
+
+#heading2{
+  color: yellow;
+}
+
+#paragraph_one{
+  font-size: 68;
+  font-family: monospace;
+  color: orange;
+}
+
+#paragraph_two{
+  font size: 64;
+  font-family: monospace;
+  color: green;
+  position:absolute;
+  transition: .5s ease;
+  top: 50%;
+  left: 50%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#play_button {
+    position:absolute;
+    transition: .5s ease;
+    top: 65%;
+    left: .5%;
+    color: black
+}
+
+#mango_position {
+  position:absolute;
+  transition: .5s ease;
+  top: 10%;
+  left: 0%;
+}
+
+#bat_position {
+  position:absolute;
+  transition: .5s ease;
+  top: 10%;
+  left: 5%;
+}
+
+#owl_position {
+  position:absolute;
+  transition: .5s ease;
+  top: 21%;
+  left: 11%;
+}
+
+#sponge_position {
+  position:absolute;
+  transition: .5s ease;
+  top: 16%;
+  left: 12%;
+}
+
+#squid_position {
+  position:absolute;
+  transition: .5s ease;
+  top: 9%;
+  left: 16%;
+}
+
+#spidy_position {
+  position:absolute;
+  transition: .5s ease;
+  top: 5%;
+  left: 19%;
+}
+
+#oddish_position {
+  position:absolute;
+  transition: .5s ease;
+  top: 10%;
+  left: 50%;
+}
